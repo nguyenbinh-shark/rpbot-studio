@@ -1,0 +1,2 @@
+# Shell scripts run on Linux/WSL straight from this checkout.
+*.sh text eol=lf
